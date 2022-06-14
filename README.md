@@ -158,7 +158,7 @@ Distributed under the MIT License. See `LICENSE.md` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Hongcheng Xu - [@collvey](https://twitter.com/collvey) - hongchengxu123@gmail.com
+Hongcheng Xu - [@collvey](https://twitter.com/collvey) - hongchengxu123[at]gmail.com
 
 Project Link: [https://github.com/collvey/Biopython](https://github.com/collvey/Biopython)
 
