@@ -90,7 +90,7 @@ All prerequisites should be provided or installed in the Colab. Here lists a few
   ```
 * git
   ```sh
-  !git clone https://github.com/jiesutd/NCRFpp.git
+  !git clone https://github.com/collvey/Biopython.git
   ```
 * Set current directory in Colab as target `PATH` to import from
   ```py
