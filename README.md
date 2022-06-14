@@ -94,9 +94,9 @@ All prerequisites should be provided or installed in the Colab. Here lists a few
   ```
 * Set current directory in Colab as target `PATH` to import from
   ```py
-import sys
+  import sys
 
-sys.path.insert(0,'/content/')
+  sys.path.insert(0,'/content/')
   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
