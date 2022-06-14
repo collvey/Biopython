@@ -169,9 +169,7 @@ Project Link: [https://github.com/collvey/Biopython](https://github.com/collvey/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [yuzhuoji](https://github.com/yuzhuoji)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
