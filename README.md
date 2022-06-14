@@ -62,8 +62,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 There are many great biology-related Python projects on Github. This repo attempts to use Colab to walk through a selected few as a fun side project.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -72,7 +70,7 @@ There are many great biology-related Python projects on Github. This repo attemp
 
 ### Requirement
 
-* Familiarity with [Google Colab](https://colab.research.google.com/)
+* Familiarity with `Python` and [Colab](https://colab.research.google.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
