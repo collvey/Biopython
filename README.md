@@ -106,7 +106,7 @@ All prerequisites should be provided or installed in the Colab. Here lists a few
 <!-- USAGE EXAMPLES -->
 ## Usage Example
 
-Open [NCRFpp Walkthrough][https://github.com/collvey/Biopython/blob/main/Walkthrough_for_jiesutd_NCRFpp.ipynb] and click `Open in Colab` to start running code.
+Open [NCRFpp Walkthrough](https://github.com/collvey/Biopython/blob/main/Walkthrough_for_jiesutd_NCRFpp.ipynb) and click `Open in Colab` to start running code.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
