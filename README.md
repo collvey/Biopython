@@ -115,12 +115,14 @@ Open [NCRFpp Walkthrough](https://github.com/collvey/Biopython/blob/main/Walkthr
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] NCBI_Entrez_Alignment_Example
-- [ ] Local_copy_of_training_MRL_CNN
-- [ ] Sklearn_Regressor_Models
-- [ ] Testing_Devil625_Codon_Optimization
-- [ ] Walkthrough_for_jiesutd_NCRFpp
-- [ ] Testing_human_utr_modeling
+Projects added:
+
+- [ ] [NCBI_Entrez_Alignment_Example](https://github.com/collvey/Biopython/blob/main/NCBI_Entrez_Alignment_Example.ipynb)
+- [ ] [Local_copy_of_training_MRL_CNN](https://github.com/collvey/Biopython/blob/main/Local_copy_of_training_MRL_CNN.ipynb)
+- [ ] [Sklearn_Regressor_Models](https://github.com/collvey/Biopython/blob/main/Sklearn_Regressor_Models.ipynb)
+- [ ] [Testing_Devil625_Codon_Optimization](https://github.com/collvey/Biopython/blob/main/Testing_Devil625_Codon_Optimization.ipynb)
+- [ ] [Walkthrough_for_jiesutd_NCRFpp](https://github.com/collvey/Biopython/blob/main/Walkthrough_for_jiesutd_NCRFpp.ipynb)
+- [ ] [Testing_human_utr_modeling](https://github.com/collvey/Biopython/blob/main/Testing_human_utr_modeling.ipynb)
 - [ ] More to add..
 
 See the [open issues](https://github.com/collvey/Biopython/issues) for a full list of proposed features (and known issues).
